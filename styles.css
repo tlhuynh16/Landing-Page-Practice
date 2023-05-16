@@ -81,6 +81,13 @@
     padding-bottom: 108px;
 }
 
+.modal {
+    background-color: #3882F6;
+    margin: 72px;
+    padding: 40px;
+    border-radius: 16px;
+}
+
 ul {
     list-style-type: none;
     display: flex;
@@ -99,6 +106,10 @@ button {
     padding: 8px 16px;
     border-radius: 8px;
     border: none;
+}
+
+#sign-up {
+    border: solid 2px #E5E7EB;
 }
 
 img {
