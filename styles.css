@@ -20,3 +20,9 @@
     font-weight: bold;
     color: #F9FAF8;
 }
+
+ul {
+    font-size: 18px;
+    color: #E5E7EB;
+    list-style-type: none;
+}
