@@ -12,7 +12,13 @@
     justify-content: space-around;
 }
 
+.top {
+    display: flex;
+}
 
+.top-container {
+    width: 50%;
+}
 
 .title {
     font-size: 24px;
