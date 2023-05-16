@@ -12,6 +12,8 @@
     justify-content: space-around;
 }
 
+
+
 .title {
     font-size: 24px;
     color: #F9FAF8;
@@ -32,4 +34,12 @@ ul {
 p, ul {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: none;
 }
