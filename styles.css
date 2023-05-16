@@ -46,6 +46,12 @@
 
 .birds {
     display: flex;
+    justify-content: space-evenly;
+    gap: 40px;
+}
+
+.bird-info {
+    width: 250px;
 }
 
 .bird-text {
