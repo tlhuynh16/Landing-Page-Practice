@@ -58,6 +58,18 @@
     color:#1F2937;
 }
 
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+#quote {
+    color:#1F2937;
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    padding: 32px;
+}
+
 ul {
     list-style-type: none;
     display: flex;
