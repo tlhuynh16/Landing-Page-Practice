@@ -6,7 +6,17 @@
     background-color: #1F2937;
 }
 
+.header {
+    margin-bottom: 0;
+}
+
 .title {
     font-size: 24px;
+    color: #F9FAF8;
+}
+
+.main-text {
+    font-size: 48px;
+    font-weight: bold;
     color: #F9FAF8;
 }
