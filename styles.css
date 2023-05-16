@@ -81,13 +81,6 @@
     padding-bottom: 108px;
 }
 
-.modal {
-    background-color: #3882F6;
-    margin: 72px;
-    padding: 40px;
-    border-radius: 16px;
-}
-
 ul {
     list-style-type: none;
     display: flex;
@@ -110,6 +103,8 @@ button {
 
 #sign-up {
     border: solid 2px #E5E7EB;
+    width: 100px;
+    height: 42px;
 }
 
 img {
@@ -123,4 +118,18 @@ img {
     width: 300px;
     height: auto;
     border: none;
+}
+
+.modal {
+    background-color: #3882F6;
+    margin: 72px;
+    padding: 40px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#modal-text {
+    color:#F9FAF8;
 }
