@@ -1,3 +1,8 @@
 .header, .top {
     background-color: #1F2937;
 }
+
+.title {
+    font-size: 24px;
+    color: #F9FAF8;
+}
