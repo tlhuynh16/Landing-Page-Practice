@@ -24,9 +24,12 @@
 }
 
 ul {
-    font-size: 18px;
-    color: #E5E7EB;
     list-style-type: none;
     display: flex;
     gap: 16px;
+}
+
+p, ul {
+    font-size: 18px;
+    color: #E5E7EB;
 }
