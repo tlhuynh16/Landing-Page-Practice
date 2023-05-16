@@ -59,9 +59,12 @@ button {
 img {
     width: 200px;
     height: 200px;
+    border: 5px solid #3882F6;
+    border-radius: 12px;
 }
 
 #top-pic {
     width: 300px;
     height: auto;
+    border: none;
 }
