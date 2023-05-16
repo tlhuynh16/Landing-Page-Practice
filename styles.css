@@ -7,7 +7,7 @@
 }
 
 .header {
-    margin-bottom: 0;
+    display: flex;
 }
 
 .title {
@@ -25,4 +25,5 @@ ul {
     font-size: 18px;
     color: #E5E7EB;
     list-style-type: none;
+    display: flex;
 }
